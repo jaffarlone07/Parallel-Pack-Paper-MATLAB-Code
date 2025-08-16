@@ -1,0 +1,1 @@
+Code for the paper, 'Reformulating Parallel-Connected Lithium-Ion Battery Pack Dynamics with Interconnection Resistances as Ordinary Differential Equations' by Jaffar Ali Lone, Nilsu Atlan, Simone Fasolato, Davide M Raimondo and Ross Drummond.
